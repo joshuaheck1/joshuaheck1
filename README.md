@@ -4,8 +4,12 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshuaheck1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshuaheck1/azure-network-protocols)
+  - [Create Active Directory Infrastucture in Azure](https://github.com/joshuaheck1/create-ad-infrastructure)
+- <b>Active Directory</b>
+  - [AD Deployment and Configuration](https://github.com/joshuaheck1/ad-deployment)
+  - [Creating Users with PowerShell](https://github.com/joshuaheck1/users-powershell)
+  - [Group Policy and Managing Accounts](https://github.com/joshuaheck1/group-policy-am)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshuaheck1/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshuaheck1/post-install-config)
