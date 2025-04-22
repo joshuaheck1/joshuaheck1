@@ -7,7 +7,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
   - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/joshuaheck1/azure-network-protocols)
-  - [Create Active Directory Infrastucture in Azure](https://github.com/joshuaheck1/create-ad-infrastructure)
+  - [Create Active Directory Infrastructure in Azure](https://github.com/joshuaheck1/create-ad-infrastructure)
 - <b>Active Directory</b>
   - [AD Deployment and Configuration](https://github.com/joshuaheck1/ad-deployment)
   - [Creating Users with PowerShell](https://github.com/joshuaheck1/users-powershell)
