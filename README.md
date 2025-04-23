@@ -1,6 +1,7 @@
+
 <h1>Hello! I'm Joshua, an <a href="https://[linkedin.com/in/joshua-heck-974029253/]">IT Professional</a> 💻📱⌨️ 🖥️🖱️🖨️</h1>
 
-![IMG_7342](https://github.com/user-attachments/assets/214061c0-37a9-4799-9dd3-b957d22b91f9)
+![Information-Technology-Sector-1200x430](https://github.com/user-attachments/assets/ffdc9dc1-17b2-47bb-a7ce-e73eec822ec3)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
