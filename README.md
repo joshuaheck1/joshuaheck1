@@ -1,7 +1,11 @@
 
+<img width="1371" alt="Screenshot 2025-04-23 at 6 46 16 PM" src="https://github.com/user-attachments/assets/82a8c7a0-8691-4d54-a673-a64af336d2a6" />
+
+
+
 <h1>Hello! I'm Joshua, an <a href="https://[linkedin.com/in/joshua-heck-974029253/]">IT Professional</a> 💻📱⌨️ 🖥️🖱️🖨️</h1>
 
-![Information-Technology-Sector-1200x430](https://github.com/user-attachments/assets/ffdc9dc1-17b2-47bb-a7ce-e73eec822ec3)
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
