@@ -16,12 +16,12 @@
 - <b>Active Directory</b>
   - [AD Deployment and Configuration](https://github.com/joshuaheck1/ad-deployment)
   - [Creating Users and Group Policy Objects for AD](https://github.com/joshuaheck1/users-group-policy)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshuaheck1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshuaheck1/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshuaheck1/ticket-lifecycle)
+- <b>osTicket (Help Desk Ticketing System)</b> 🚧 👷🏽‍♂️ This area is currently under constuction and will be open soon. 
+  - 🚧 [osTicket: Prerequisites and Installation](https://github.com/joshuaheck1/osticket-prereqs)
+  - 🚧 [osTicket: Post-Installation Configuration](https://github.com/joshuaheck1/post-install-config)
+  - 🚧 [osTicket: Ticket Lifecycle Examples](https://github.com/joshuaheck1/ticket-lifecycle)
 
-<h2>🤳Connect with me:</h2>
+<h2>🌐 Connect with me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-heck-974029253) 
 
