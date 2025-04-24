@@ -16,7 +16,6 @@
 - <b>Active Directory</b>
   - [AD Deployment and Configuration](https://github.com/joshuaheck1/ad-deployment)
   - [Creating Users and Group Policy Objects for AD](https://github.com/joshuaheck1/users-group-policy)
-  - [Group Policy and Managing Accounts](https://github.com/joshuaheck1/group-policy-am)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshuaheck1/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshuaheck1/post-install-config)
