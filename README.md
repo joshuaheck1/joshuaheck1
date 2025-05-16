@@ -22,9 +22,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshuaheck1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshuaheck1/ticket-lifecycle)
 
-<h2>🐍 Python Projects:</h2>
+<h2>👨‍💻 Coding Projects:</h2>
 
-   - [Slot Machine](https://github.com/joshuaheck1/slot_machine)
+- <b>🐍  Python </b>
+  - [Slot Machine](https://github.com/joshuaheck1/slot_machine)
 
 <h2>🌐 Connect with me:</h2>
 
