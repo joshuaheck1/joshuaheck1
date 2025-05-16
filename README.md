@@ -22,6 +22,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshuaheck1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshuaheck1/ticket-lifecycle)
 
+<h2>🐍 Python Projects:</h2>
+
+[Slot Machine](https://github.com/joshuaheck1/azure-network-protocols)
+
 <h2>🌐 Connect with me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-heck-974029253) 
