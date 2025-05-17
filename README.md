@@ -24,7 +24,9 @@
 
 <h2>👨‍💻 Coding Projects:</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> - [Slot Machine](https://github.com/joshuaheck1/slot_machine)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> 
+
+  - [Python: Slot Machine](https://github.com/joshuaheck1/ticket-lifecycle)
 
 <h2>🌐 Connect with me:</h2>
 
