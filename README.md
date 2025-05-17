@@ -4,7 +4,7 @@
 
 
 
-<h1>Hello! I'm Joshua, an <a href="https://[linkedin.com/in/joshua-heck-974029253/]">IT Professional</a> 💻📱⌨️ 🖥️🖱️</h1>
+<h1>Hello! I'm Joshua, an <a href="https://www.linkedin.com/in/joshua-heck-974029253/">IT Professional</a> 💻📱⌨️ 🖥️🖱️</h1>
 
 
 
