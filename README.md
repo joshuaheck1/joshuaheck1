@@ -8,7 +8,7 @@
 
 
 <h2>About me</h2>
-<p align="left">✨ Creating bugs since, like forever ago... Not really, I'm new to this but loving every second! 😎  <br>📚 I'm currently learning as much I can about Python! <br>🎯 Goals: To learn the ways of full-stack development. <br>🎲 Fun fact: Neo is disguised as John Wick playing Keanu Reeves! </p>
+<p align="left">✨ Creating bugs since -> Like forever ago... Not really, I'm new to this but loving every second! 😎  <br>📚 I'm currently learning -> As much I can about Python! <br>🎯 Goals -> To learn the ways of full-stack development. <br>🎲 Fun fact -> Neo is disguised as John Wick playing Keanu Reeves! </p>
 
 
 
