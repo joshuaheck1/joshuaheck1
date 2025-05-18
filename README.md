@@ -33,11 +33,12 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshuaheck1/ticket-lifecycle)
 
 <h2>👨‍💻 Coding Projects:</h2>
+<img align="right" height="125" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw2ZzZuNjVoaDRseGhoODlwZ24yNjQ2ZTR3dXdtZGZyajZ5aWU3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> 
 
 - <b>Python</b>
-  - [Slot Machine](https://github.com/joshuaheck1/slot_machine)
+    - [Slot Machine](https://github.com/joshuaheck1/slot_machine)
 
 <br/>
 
@@ -63,10 +64,9 @@
 <br/>
 <br/>
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw2ZzZuNjVoaDRseGhoODlwZ24yNjQ2ZTR3dXdtZGZyajZ5aWU3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif"  />
 
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=joshuaheck1&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaheck1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
