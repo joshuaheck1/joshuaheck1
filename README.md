@@ -47,7 +47,7 @@
 <h2>🌐 Connect with me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-heck-974029253) 
-
+<br/>
 
 
 <picture>
