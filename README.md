@@ -39,7 +39,7 @@
 
 - <b>Python</b> 
   - [Slot Machine](https://github.com/joshuaheck1/slot_machine)
-
+  - [Quiz Game](https://github.com/joshuaheck1/quiz_game)
 
 
 <br/>
