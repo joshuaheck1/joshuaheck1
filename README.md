@@ -35,10 +35,12 @@
 <h2>👨‍💻 Coding Projects:</h2>
 <img align="right" height="125" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw2ZzZuNjVoaDRseGhoODlwZ24yNjQ2ZTR3dXdtZGZyajZ5aWU3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif"  />
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <h3>Python</h3> 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> 
+
+- <b>Python</b> 
+  - [Slot Machine](https://github.com/joshuaheck1/slot_machine)
 
 
-  <b> - [Slot Machine](https://github.com/joshuaheck1/slot_machine) </b>
 
 <br/>
 
