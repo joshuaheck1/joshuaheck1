@@ -61,7 +61,10 @@
 <br/>
 <br/>
 
-<div align="center">
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw2ZzZuNjVoaDRseGhoODlwZ24yNjQ2ZTR3dXdtZGZyajZ5aWU3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif"  />
+
+
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=joshuaheck1&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaheck1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
