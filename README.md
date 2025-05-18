@@ -67,8 +67,8 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joshuaheck1&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaheck1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+<img src="https://nirzak-streak-stats.vercel.app/?user=joshuaheck1&theme=github_dark&hide_border=true"<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaheck1&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 
@@ -76,8 +76,6 @@
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVtMXh1OGphZWQ4aGR2OHc1cTZ0bnM4dG1tbG9yM3ZlbzZrNzl3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xCVo1diTHyIoPC/giphy.gif"  />
 </div>
-
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
