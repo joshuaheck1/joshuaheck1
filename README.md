@@ -6,9 +6,11 @@
 
 <h1>Hello! I'm Joshua, an <a href="https://www.linkedin.com/in/joshua-heck-974029253/">IT Professional</a> 💻📱⌨️ 🖥️🖱️</h1>
 
-<h2 align="left">About me</h2>
 
+<h2>About me</h2>
 <p align="left">✨ Creating bugs since, like forever ago... Not really, I'm new to this but loving every second! 😎  <br>📚 I'm currently learning as much I can about Python! <br>🎯 Goals: To learn the ways of full-stack development. <br>🎲 Fun fact: Neo is disguised as John Wick playing Keanu Reeves! </p>
+
+
 
 
 <h2>  💻 Tech Stack: </h2>
@@ -68,6 +70,14 @@
   <img src="https://streak-stats.demolab.com?user=joshuaheck1&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaheck1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVtMXh1OGphZWQ4aGR2OHc1cTZ0bnM4dG1tbG9yM3ZlbzZrNzl3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xCVo1diTHyIoPC/giphy.gif"  />
+</div>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
